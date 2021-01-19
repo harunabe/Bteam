@@ -1,0 +1,7 @@
+.piece {
+    width: 100px;
+    height: 100px;
+    background-image: url('pict.jpg');
+    position: absolute;
+    margin: 10% 100% 40% 10%;
+}
