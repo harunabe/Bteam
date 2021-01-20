@@ -5,3 +5,9 @@
     position: absolute;
     margin: 10% 100% 40% 10%;
 }
+button {
+    width: 80px;
+    height: 30px;
+    display: block;
+    margin-bottom: 5px;
+}
