@@ -1,9 +1,18 @@
 body{
     background-color: black;
+    max-width: 1024px;
+    margin: 0 auto;
 }
 h1{
     color: red;
     font-weight: bold;
-    font-size: 300px;
+    font-size: 100px;
     text-align: center;
+    margin: 0 auto auto 5px;
+    display: grid;
+}
+button{
+    width: 200px;
+    margin: 0 auto;
+    display: grid;
 }
