@@ -36,7 +36,7 @@ $(function() {
         // アニメーション終了時にクリア判定する。
         var clear = true;
         for (var i = 0; i < 25; i++) if (pos[i] != i) clear = false;
-        if (clear) alert("クリア！");
+        if (clear) setTimeout(function(){alert("クリア！");}, 200);
       });
       sel = -1;
     }
