@@ -7,3 +7,14 @@ h1{
     font-size: 300px;
     text-align: center;
 }
+button {
+    width: 400px;
+    height: 100px;
+    display: inline-block;
+    margin-bottom: 5px;
+    margin-left: 300px;
+}
+p{
+    font-size: 30px;
+    font-weight: bold;
+}
